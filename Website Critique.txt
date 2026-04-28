@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Web Site Critiques</title>
+</head>
+
+<body>
+
+    <h1>Web Site Critiques</h1>
+
+    <h2>Futurosity</h2>
+
+    <p>
+        When I first visited the Futurosity website, something immediately felt suspicious.
+        After a closer look, I realized that the issue was the awkward layout, particularly
+        the off-center heading. This design choice was the first thing I noticed and was
+        quickly off-putting, as it made the site feel unpolished.
+    </p>
+
+    <p>
+        Overall, the website organizes its information fairly well. Content is easy to
+        locate by scrolling up and down the page, and most of the links are positioned on
+        the right side. The structure makes sense for a vertically scrolling design, though
+        the experience became confusing when several buttons failed to work properly.
+    </p>
+
+    <p>
+        The media elements on the site enhance the overall appearance and provide strong
+        contrast against the plain background. The black and gold color scheme is visually
+        appealing, simple, and easy on the eyes. The animated GIF used for the heading was a
+        clever idea, and it reminded me of a casino, which fits well with the lottery theme.
+        However, the off-center placement made the effect distracting.
+    </p>
+
+    <p>
+        The website loaded very quickly, taking approximately two seconds to appear after
+        clicking the link. This load time is reasonable and comparable to other websites.
+        All of the text on the site was readable, with neat, professional fonts and
+        appropriate sizing. The plain background made it easy to distinguish all elements.
+    </p>
+
+    <p>
+        The website did not include a navigation bar, but one was not necessary due to the
+        limited amount of content. While there were several links and buttons available,
+        none of them functioned correctly. Some had no effect, while others redirected back
+        to the homepage.
+    </p>
+
+    <p>
+        The color scheme of gold, black, and white remained consistent throughout the site
+        and reinforced the lottery motif. The site adjusted when viewed in a smaller
+        window, allowing the text and images to flow more smoothly. However, two buttons
+        disappeared when the window was resized, and the off-center heading became even
+        harder to view.
+    </p>
+
+    <p>
+        Overall, the website was unusual due to its nonfunctional buttons. Although the
+        creative use of a GIF heading and lottery-themed colors and symbols was effective,
+        the alignment and usability issues ultimately detracted from the user experience.
+    </p>
+
+</body>
+</html>
